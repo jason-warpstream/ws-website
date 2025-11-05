@@ -1,763 +1,763 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-			<url>
-				<loc>https://docs.warpstream.com/warpstream</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/overview/architecture</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/overview/architecture</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/overview/architecture/service-discovery</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/overview/architecture/service-discovery</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/overview/architecture/write-path</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/overview/architecture/write-path</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/overview/architecture/read-path</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/overview/architecture/read-path</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/overview/architecture/life-of-a-request</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/overview/architecture/life-of-a-request</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/overview/change-log</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/overview/change-log</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/getting-started/install-the-warpstream-agent</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/getting-started/install-the-warpstream-agent</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/getting-started/run-the-agent-locally</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/getting-started/run-the-agent-locally</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/getting-started/demo</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/getting-started/demo</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/getting-started/hello-world-using-kafka</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/getting-started/hello-world-using-kafka</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/deploy</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/deploy</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/deploy/kubernetes-known-issues</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/deploy/kubernetes-known-issues</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/deploy/rolling-restarts-and-upgrades</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/deploy/rolling-restarts-and-upgrades</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/different-object-stores</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/different-object-stores</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/premade-datadog-dashboard</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/premade-datadog-dashboard</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/pre-made-grafana-dashboard</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/pre-made-grafana-dashboard</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/important-metrics-and-logs</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/important-metrics-and-logs</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/recommended-list-of-alerts</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/recommended-list-of-alerts</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/monitoring-consumer-groups</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/monitoring-consumer-groups</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/hosted-prometheus-endpoint</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/hosted-prometheus-endpoint</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/diagnostics</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/diagnostics</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/terraform-provider</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/terraform-provider</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/helm-charts</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/helm-charts</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/terraform-modules</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/terraform-modules</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/protecting-important-resources-from-accidental-deletion</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/protecting-important-resources-from-accidental-deletion</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/tuning-for-performance</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/tuning-for-performance</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/configure-clients-to-eliminate-az-networking-costs</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/configure-clients-to-eliminate-az-networking-costs</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/configure-clients-to-eliminate-az-networking-costs/tune-interzone-load-balancing</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/configure-clients-to-eliminate-az-networking-costs/tune-interzone-load-balancing</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/configuring-kafka-client-id-features</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/configuring-kafka-client-id-features</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/administrate-your-byoc-clusters-with-serverless</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/administrate-your-byoc-clusters-with-serverless</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/port-forwarding-k8s</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/port-forwarding-k8s</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/known-issues</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/known-issues</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/manage-security</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/manage-security</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/manage-security/configure-acls</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/manage-security/configure-acls</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/manage-security/protect-data-in-motion-with-tls-encryption</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/manage-security/protect-data-in-motion-with-tls-encryption</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/manage-security/sasl-authentication</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/manage-security/sasl-authentication</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/manage-security/mutual-tls-mtls</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/manage-security/mutual-tls-mtls</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/manage-connectors</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/manage-connectors</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/manage-connectors/bento</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/manage-connectors/bento</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/manage-connectors/bento/cookbooks</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/manage-connectors/bento/cookbooks</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/splitting-agent-roles</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/splitting-agent-roles</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/agent-groups</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/agent-groups</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/low-latency-clusters</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/low-latency-clusters</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/multi-region</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/multi-region</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/configure-warpstream-agent-within-a-container-or-behind-a-proxy</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/configure-warpstream-agent-within-a-container-or-behind-a-proxy</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/agent-configuration</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/agent-configuration</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/reducing-infrastructure-costs</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/reducing-infrastructure-costs</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/client-configuration-auto-tuning</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/client-configuration-auto-tuning</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/orbit</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/orbit</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/benchmarking</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/benchmarking</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/reference</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/reference</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/reference/compression</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/reference/compression</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/reference/protocol-and-feature-support</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/reference/protocol-and-feature-support</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/reference/protocol-and-feature-support/kafka-vs-warpstream-configuration-reference</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/reference/protocol-and-feature-support/kafka-vs-warpstream-configuration-reference</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/reference/protocol-and-feature-support/compacted-topics</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/reference/protocol-and-feature-support/compacted-topics</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/reference/protocol-and-feature-support/topic-configuration-reference</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/reference/protocol-and-feature-support/topic-configuration-reference</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/reference/partitions-auto-scaler-beta</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/reference/partitions-auto-scaler-beta</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/reference/serverless-clusters</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/reference/serverless-clusters</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/kafka/reference/partition-assignment-strategies</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/reference/partition-assignment-strategies</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/tableflow/tableflow</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/tableflow</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/tableflow/object-storage-configuration</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/object-storage-configuration</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/duckdb</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/duckdb</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/clickhouse</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/clickhouse</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/aws-glue</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/aws-glue</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/amazon-athena</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/amazon-athena</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/schema-registry/warpstream-byoc-schema-registry</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/schema-registry/warpstream-byoc-schema-registry</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/schema-registry/schema-validation</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/schema-registry/schema-validation</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/schema-registry/warpstream-schema-linking</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/schema-registry/warpstream-schema-linking</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/schema-registry/manage-security</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/schema-registry/manage-security</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/schema-registry/manage-security/basic-authentication</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/schema-registry/manage-security/basic-authentication</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/billing</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/billing</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/billing/direct-billing</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/billing/direct-billing</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/billing/aws-marketplace</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/billing/aws-marketplace</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/accessing-the-confluent-support-portal</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/accessing-the-confluent-support-portal</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/security-and-privacy-considerations</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/security-and-privacy-considerations</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/manage-console-access</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/manage-console-access</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/manage-console-access/enable-saml-single-sign-on-sso</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/manage-console-access/enable-saml-single-sign-on-sso</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/manage-console-access/trusted-domains</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/manage-console-access/trusted-domains</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/manage-console-access/workspaces-and-access-controls</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/manage-console-access/workspaces-and-access-controls</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/secrets-overview</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/secrets-overview</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/api-keys</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/api-keys</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/api-keys/create</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/api-keys/create</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/api-keys/delete</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/api-keys/delete</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/api-keys/list</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/api-keys/list</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/create</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/create</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/delete</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/delete</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/describe</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/describe</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/list</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/list</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/describeconfiguration</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/describeconfiguration</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/updateconfiguration</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/updateconfiguration</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/rename</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/rename</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters-credentials</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters-credentials</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters-credentials/create</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters-credentials/create</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters-credentials/delete</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters-credentials/delete</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters-credentials/list</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters-credentials/list</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/monitoring</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/monitoring</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/monitoring/describe-all-consumer-groups</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/monitoring/describe-all-consumer-groups</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/list-pipelines</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/list-pipelines</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/create-pipeline</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/create-pipeline</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/delete-pipeline</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/delete-pipeline</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/describe-pipeline</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/describe-pipeline</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/create-pipeline-configuration</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/create-pipeline-configuration</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/change-pipeline-state</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/pipelines/change-pipeline-state</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices/get-pending-invoice</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices/get-pending-invoice</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices/get-past-invoice</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices/get-past-invoice</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/create-topic</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/create-topic</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/list-topics</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/list-topics</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/describe-topic</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/describe-topic</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/update-topic</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/update-topic</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/delete-topic</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/delete-topic</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/undelete-topic</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/topics/undelete-topic</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/users</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/users</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/users/delete</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/users/delete</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/users/list</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/users/list</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/user-roles</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/user-roles</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/user-roles/create</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/user-roles/create</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/user-roles/delete</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/user-roles/delete</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/user-roles/list</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/user-roles/list</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/user-roles/update</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/user-roles/update</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/create</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/create</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/delete</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/delete</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/list</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/list</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/rename</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/rename</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invitations</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invitations</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invitations/create</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invitations/create</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-agent</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-agent</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-demo</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-demo</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-kcmd</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-kcmd</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/benchmark-consumer</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/benchmark-consumer</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/benchmark-producer</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/benchmark-producer</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/console-consumer</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/console-consumer</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/console-producer</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/console-producer</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/consumer-group-lag</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/consumer-group-lag</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/diagnose-record</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/diagnose-record</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/file-reader</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/file-reader</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/file-scrubber</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/file-scrubber</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-playground</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-playground</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/arroyo</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/arroyo</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/aws-lambda-triggers</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/aws-lambda-triggers</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/clickhouse</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/clickhouse</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/use-warpstream-with-debezium</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/use-warpstream-with-debezium</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/decodable</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/decodable</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/deltastream</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/deltastream</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/use-the-agent-in-docker-compose</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/use-the-agent-in-docker-compose</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/duckdb</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/duckdb</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/elastiflow</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/elastiflow</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/estuary</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/estuary</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/deploy-warpstream-to-fly.io</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/deploy-warpstream-to-fly.io</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/imply</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/imply</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/influxdb</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/influxdb</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/kafbat-ui-kafka-ui</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/kafbat-ui-kafka-ui</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/kestra</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/kestra</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/materialize</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/materialize</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/minio</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/minio</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/mirrormaker</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/mirrormaker</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/motherduck</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/motherduck</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/ngrok</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/ngrok</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/ockam</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/ockam</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/opentelemetry-collector</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/opentelemetry-collector</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/paradedb</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/paradedb</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/sqlite</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/sqlite</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/quix-streams</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/quix-streams</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/railway</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/railway</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/redpanda-console</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/redpanda-console</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/use-warpstream-with-risingwave</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/use-warpstream-with-risingwave</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/rockset</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/rockset</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/shadowtraffic</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/shadowtraffic</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/sqlite-1</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/sqlite-1</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/streambased</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/streambased</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/streamlit</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/streamlit</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/timeplus</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/timeplus</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/tinybird</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/tinybird</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/integrations/upsolver</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/integrations/upsolver</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/dedicated-control-plane-cells-and-release-windows</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/dedicated-control-plane-cells-and-release-windows</loc>
 </url>
 
-			<url>
-				<loc>https://docs.warpstream.com/warpstream/reference/deprecation-policy</loc>
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/deprecation-policy</loc>
 </url>
 
 
