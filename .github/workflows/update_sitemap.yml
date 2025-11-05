@@ -1,0 +1,61 @@
+name: Weekly Sitemap Update
+
+# Controls when the workflow runs
+on:
+  # Schedule to run every Monday at 01:00 UTC
+  schedule:
+    # This cron expression means "at 01:00 AM, on Monday (day 1 of the week)"
+    # The time is set in UTC; adjust for your timezone if necessary.
+    - cron: '0 1 * * 1'
+  
+  # Also allow manual running from the Actions tab for testing
+  workflow_dispatch:
+
+jobs:
+  update-sitemap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch the full history to allow successful pushes later
+          fetch-depth: 0 
+          
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (requests)
+        run: pip install requests
+
+      - name: Run Sitemap Cleaning Script
+        # This executes the Python script we created
+        run: python sitemap_updater.py
+
+      - name: Check for file changes
+        id: git_status
+        # Check if the generated file is different from the version in the repository
+        run: |
+          git diff --quiet ${{ env.OUTPUT_FILENAME }} || echo "file_changed=true" >> $GITHUB_OUTPUT
+        env:
+          OUTPUT_FILENAME: docs-zendesk-sitemap.xml
+
+      - name: Commit and Push if file changed
+        if: steps.git_status.outputs.file_changed == 'true'
+        run: |
+          echo "4. Committing and pushing updated file to GitHub."
+          # Configure Git user for the commit
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          
+          # Add the modified file
+          git add ${{ env.OUTPUT_FILENAME }}
+          
+          # Commit the changes
+          git commit -m "chore(auto): Update sitemap and remove priority/lastmod tags"
+          
+          # Push the changes back to the 'main' branch
+          git push
+        env:
+          OUTPUT_FILENAME: docs-zendesk-sitemap.xml
