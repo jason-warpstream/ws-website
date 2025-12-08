@@ -261,7 +261,15 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/iceberg-catalog</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/snowflake</loc>
 </url>
 
 <url>
