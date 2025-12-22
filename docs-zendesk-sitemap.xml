@@ -273,6 +273,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/databricks</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/duckdb</loc>
 </url>
 
@@ -318,6 +322,10 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/billing/aws-marketplace</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/audit-logs</loc>
 </url>
 
 <url>
@@ -506,6 +514,10 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/users/list</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/users/update-roles</loc>
 </url>
 
 <url>
@@ -762,6 +774,10 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/dedicated-control-plane-cells-and-release-windows</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/control-plane-private-connectivity</loc>
 </url>
 
 <url>
