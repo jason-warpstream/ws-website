@@ -277,6 +277,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/bigquery</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/tableflow/catalogs-and-query-engines/duckdb</loc>
 </url>
 
