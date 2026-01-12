@@ -65,15 +65,15 @@
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/premade-datadog-dashboard</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/pre-made-grafana-dashboard</loc>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/diagnostics</loc>
 </url>
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/important-metrics-and-logs</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/hosted-prometheus-endpoint</loc>
 </url>
 
 <url>
@@ -85,11 +85,15 @@
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/hosted-prometheus-endpoint</loc>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/datadog-integration</loc>
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/diagnostics</loc>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/premade-datadog-dashboard</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents/pre-made-grafana-dashboard</loc>
 </url>
 
 <url>
