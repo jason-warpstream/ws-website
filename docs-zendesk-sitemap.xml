@@ -169,6 +169,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/kafka/manage-security/sasl-oauthbearer-authentication</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/kafka/manage-connectors</loc>
 </url>
 
@@ -197,6 +201,22 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/low-latency-clusters/s3-express</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/low-latency-clusters/aws-dynamo-db</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/low-latency-clusters/google-spanner-beta</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/low-latency-clusters/lightning-topics</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/multi-region</loc>
 </url>
 
@@ -214,6 +234,10 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/client-configuration-auto-tuning</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/ripcord</loc>
 </url>
 
 <url>
@@ -482,6 +506,10 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices/get-past-invoice</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices/get-invoice-breakdowns</loc>
 </url>
 
 <url>
