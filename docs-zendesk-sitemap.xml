@@ -329,6 +329,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/api-reference</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/schema-registry/warpstream-byoc-schema-registry</loc>
 </url>
 
@@ -465,11 +469,31 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/acls</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/acls/create-acl</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/acls/list-acls</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/acls/delete-acls</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/monitoring</loc>
 </url>
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/monitoring/describe-all-consumer-groups</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/monitoring/describe-quotas</loc>
 </url>
 
 <url>
@@ -501,6 +525,14 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invitations</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invitations/create</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices</loc>
 </url>
 
@@ -514,6 +546,22 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices/get-invoice-breakdowns</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/tableflow</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/tableflow/list-tables</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/tableflow/get-table</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/tableflow/delete-recreate-table</loc>
 </url>
 
 <url>
@@ -598,14 +646,6 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/rename</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invitations</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invitations/create</loc>
 </url>
 
 <url>
