@@ -125,6 +125,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/client-configuration-auto-tuning</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/configure-clients-to-eliminate-az-networking-costs</loc>
 </url>
 
@@ -230,10 +234,6 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/reducing-infrastructure-costs</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/client-configuration-auto-tuning</loc>
 </url>
 
 <url>
@@ -434,6 +434,10 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/list</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/create-a-multi-region-cluster</loc>
 </url>
 
 <url>
