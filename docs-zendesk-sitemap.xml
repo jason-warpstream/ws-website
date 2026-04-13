@@ -97,23 +97,23 @@
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code</loc>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastructure-as-code</loc>
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/terraform-provider</loc>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastructure-as-code/terraform-provider</loc>
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/helm-charts</loc>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastructure-as-code/helm-charts</loc>
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/terraform-modules</loc>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastructure-as-code/terraform-modules</loc>
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastucture-as-code/protecting-important-resources-from-accidental-deletion</loc>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/infrastructure-as-code/protecting-important-resources-from-accidental-deletion</loc>
 </url>
 
 <url>
