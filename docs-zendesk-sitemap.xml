@@ -145,6 +145,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/client-metrics-kip-714</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/administrate-your-byoc-clusters-with-serverless</loc>
 </url>
 
@@ -249,14 +253,6 @@
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/kafka/orbit</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/kafka/benchmarking</loc>
-</url>
-
-<url>
 <loc>https://docs.warpstream.com/warpstream/kafka/reference</loc>
 </url>
 
@@ -294,6 +290,18 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/kafka/reference/partition-assignment-strategies</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/benchmarking</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/orbit</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/orbit/auto-migration</loc>
 </url>
 
 <url>
@@ -625,6 +633,26 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/client-metrics</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/client-metrics/list</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/client-metrics/describe</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/client-metrics/update</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/client-metrics/delete</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/users</loc>
 </url>
 
@@ -678,6 +706,22 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/rename</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/orbit-auto-migration</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/orbit-auto-migration/initiate</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/orbit-auto-migration/abort</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/orbit-auto-migration/status</loc>
 </url>
 
 <url>
