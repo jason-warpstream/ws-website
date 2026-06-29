@@ -397,6 +397,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/reference/billing/chargebacks</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/reference/audit-logs</loc>
 </url>
 
@@ -590,6 +594,14 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices/get-invoice-breakdowns</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices/get-pending-invoice-1</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/invoices/get-pending-invoice-2</loc>
 </url>
 
 <url>
