@@ -217,6 +217,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/low-latency-clusters/gcp-rapid-buckets-beta</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/low-latency-clusters/aws-dynamo-db</loc>
 </url>
 
@@ -270,6 +274,10 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/kafka/reference/protocol-and-feature-support/compacted-topics</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/reference/protocol-and-feature-support/broker-configuration-reference</loc>
 </url>
 
 <url>
