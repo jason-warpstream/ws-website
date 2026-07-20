@@ -41,10 +41,6 @@
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/getting-started/demo</loc>
-</url>
-
-<url>
 <loc>https://docs.warpstream.com/warpstream/getting-started/hello-world-using-kafka</loc>
 </url>
 
@@ -206,6 +202,10 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/agent-groups</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/workload-identity-federation</loc>
 </url>
 
 <url>
@@ -761,43 +761,47 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli/benchmark-consumer</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli/benchmark-producer</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli/console-consumer</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli/console-producer</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli/consumer-group-lag</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli/diagnose-record</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli/file-reader</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli/file-scrubber</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-kcmd</loc>
 </url>
 
 <url>
-<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/benchmark-consumer</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/benchmark-producer</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/console-consumer</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/console-producer</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/consumer-group-lag</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/diagnose-record</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/file-reader</loc>
-</url>
-
-<url>
-<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-cli-beta/file-scrubber</loc>
+<loc>https://docs.warpstream.com/warpstream/reference/cli-reference/warpstream-local</loc>
 </url>
 
 <url>
