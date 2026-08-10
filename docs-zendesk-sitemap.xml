@@ -61,6 +61,14 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/different-object-stores/multi-buckets</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/agent-setup/different-object-stores/striped-buckets</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/agent-setup/monitor-the-warpstream-agents</loc>
 </url>
 
