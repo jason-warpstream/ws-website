@@ -153,6 +153,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/consumer-group-protocol-kip-848</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/kafka/configure-kafka-client/administrate-your-byoc-clusters-with-serverless</loc>
 </url>
 
@@ -333,6 +337,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/tableflow/query-based-deletion</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/tableflow/monitoring</loc>
 </url>
 
@@ -473,6 +481,10 @@
 </url>
 
 <url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/api-keys/create-v2</loc>
+</url>
+
+<url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/api-keys/delete</loc>
 </url>
 
@@ -486,6 +498,10 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/create</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/virtual-clusters/create-v2</loc>
 </url>
 
 <url>
@@ -730,6 +746,10 @@
 
 <url>
 <loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/create</loc>
+</url>
+
+<url>
+<loc>https://docs.warpstream.com/warpstream/reference/api-reference/workspaces/create-v2</loc>
 </url>
 
 <url>
