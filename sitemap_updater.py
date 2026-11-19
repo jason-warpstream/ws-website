@@ -3,7 +3,7 @@ import os
 import sys
 
 # --- Configuration ---
-SITEMAP_URL = "https://docs.warpstream.com/warpstream/sitemap-pages.xml"
+SITEMAP_URL = "https://docs.warpstream.com/warpstream/sitemap-0.xml"
 OUTPUT_FILENAME = "docs-zendesk-sitemap.xml"
 TEMP_OUTPUT_PATH = os.path.join(os.getcwd(), OUTPUT_FILENAME)
 
